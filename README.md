@@ -36,8 +36,8 @@ Written by an experienced electrical and electronics engineer, this guide bridge
 
 ## How to Get Your Copy
 
-1. **Digital Edition**: [View and download instantly](#)
-2. **Print Edition**: Available soon through [Amazon](#) and major bookstores
+1. **Digital Edition**: [View and download instantly](https://github.com/edu-ap/temp-power-grids/blob/main/book.pdf)
+2. **Print Edition**: Available soon through Amazon and major bookstores
 3. **Bulk Orders**: Contact us for special pricing on orders of 10+ copies
 
 ## Resources and Support
