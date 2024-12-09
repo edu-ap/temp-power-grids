@@ -1,0 +1,3 @@
+#!/bin/bash
+pandoc -s --toc --template=custom_template.tex metadata.yaml 0.01-cover.md 0.02-acknowledgements.md 0.03-foreword.md 1.\ Introduction.md 2.\ Basic\ Electrical\ Concepts.md 3.\ Safety\ Protocols.md 4.\ Setting\ Up\ a\ Temporary\ Power\ Grid.md 5.\ Load\ Balancing\ and\ Distribution.md 6.\ Troubleshooting\ Common\ Issues.md 7.\ Burning\ Man\ Specific\ Considerations.md 8.\ Rent\ vs.\ Buy\:\ Decision-Making\ for\ Reusable\ Equipment.md 9.\ Human\ Factors.md 10.\ Burning\ Man-Specific\ Logistics\ and\ Organizational\ Interactions.md 11.\ Communication\ Strategies\ Using\ Nonviolent\ Communication\ \(NVC\).md 12.\ Effective\ Communication\ for\ Power\ Systems\ Management.md 13.\ Appendices.md -o book.pdf
+brave-browser book.pdf
