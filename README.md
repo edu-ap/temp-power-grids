@@ -1,7 +1,5 @@
 # Temporary Power Systems: A Practical Guide for Outdoor Enthusiasts and Professionals
 
-![Book Cover](assets/book-cover.png)
-
 ## About the Book
 
 Transform your approach to temporary power management with this comprehensive guide designed for both outdoor enthusiasts and event professionals. Whether you're setting up power for a weekend camping trip, managing a large outdoor event, or preparing for emergency situations, this book provides the knowledge and practical solutions you need.
@@ -36,7 +34,7 @@ Written by an experienced electrical and electronics engineer, this guide bridge
 
 ## How to Get Your Copy
 
-1. **Digital Edition**: [View and download instantly](https://github.com/edu-ap/temp-power-grids/blob/main/book.pdf)
+1. **Digital Edition**: [View and download instantly](https://github.com/edu-ap/temp-power-grids/blob/main/chapters/book.pdf)
 2. **Print Edition**: Available soon through Amazon and major bookstores
 3. **Bulk Orders**: Contact us for special pricing on orders of 10+ copies
 
@@ -51,7 +49,7 @@ With over just under two decades of experience in electrical and electronics eng
 
 ## Get Started Today
 
-Ready to master temporary power systems? [Get your copy now](https://github.com/edu-ap/temp-power-grids/blob/main/book.pdf) and join a community of practical problem-solvers who understand the importance of safe and efficient power management.
+Ready to master temporary power systems? [Get your copy now](https://github.com/edu-ap/temp-power-grids/blob/main/chapters/book.pdf) and join a community of practical problem-solvers who understand the importance of safe and efficient power management.
 
 ---
 
